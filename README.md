@@ -1,6 +1,6 @@
 # Salty Hacker News Troll Frontend
 
-An app that uses Hacker News comment data to rank commenters based on comment saltiness
+An app that uses Hacker News comment data to rank commenters based on comment "saltiness."
 
 #### MVP
 
