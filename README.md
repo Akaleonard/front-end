@@ -1,5 +1,7 @@
 # Salty Hacker News Troll Frontend
 
+You can find the project deployed at https://saltyhackers.netlify.app/
+
 An app that uses Hacker News comment data to rank commenters based on comment "saltiness."
 
 #### MVP
